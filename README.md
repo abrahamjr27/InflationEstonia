@@ -1,0 +1,2 @@
+# InflationEstonia
+Inflation Forecasting
